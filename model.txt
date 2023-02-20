@@ -1,0 +1,13 @@
+Incremental model, also known as iterative model, is a software development approach where a project is broken down into smaller, more manageable modules or iterations, and each iteration is developed and delivered incrementally.
+
+While incremental model is typically used in software development, it can also be applied in other fields, including car repair. Here are some reasons why incremental model may be beneficial in car repair:
+
+Faster turnaround time: By breaking down the repair process into smaller, more manageable iterations, the mechanic can focus on fixing one issue at a time, rather than trying to diagnose and fix multiple issues simultaneously. This can lead to a faster turnaround time, as the mechanic can quickly identify and fix each issue as they arise.
+
+Better communication: Incremental model can facilitate better communication between the mechanic and the car owner. By breaking down the repair process into smaller iterations, the mechanic can provide regular updates on the progress of the repair, and the car owner can provide feedback and make adjustments as needed.
+
+Reduced cost: By identifying and fixing issues as they arise, rather than waiting for a major problem to develop, incremental model can reduce the overall cost of the repair. This is because small issues are often easier and less expensive to fix than major problems.
+
+Improved quality: By breaking down the repair process into smaller iterations, the mechanic can focus on ensuring that each repair is done correctly and thoroughly. This can lead to a higher quality repair overall, as the mechanic can take the time to test and verify each repair before moving on to the next iteration.
+
+Overall, using an incremental model in car repair can help improve efficiency, communication, quality, and cost-effectiveness.
